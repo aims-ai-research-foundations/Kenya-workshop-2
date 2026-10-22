@@ -40,11 +40,11 @@ Each session's slide deck is committed **inside its own folder** once frozen on 
 
 ## 🧪 Today's lab, one click away
 
-Each day's Course Lab opens directly in Google Colab. Days 1 and 2 are here now; the other days land as the week goes on. Days 1-4 need no setup; the Day 5 lab runs on a **T4 GPU** and needs access to Gemma 3:
+Each day's Course Lab opens directly in Google Colab. Days 1 to 3 are here now; the other days land as the week goes on. Days 1-4 need no setup; the Day 5 lab runs on a **T4 GPU** and needs access to Gemma 3:
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Kenya-workshop-2/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Kenya-workshop-2/blob/main/course-labs/day2/day2-course3-student.ipynb) **Day 2 · Course 3 — Neural Network Training & Overfitting**
-- **Day 3 · Course 4 — A Transformer in 60 Minutes** — coming soon
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Kenya-workshop-2/blob/main/course-labs/day3/day3-course4-student.ipynb) **Day 3 · Course 4 — A Transformer in 60 Minutes**
 - **Day 4 · Course 5 — Fine-Tuning a Layer with LoRA** — coming soon
 - **Day 5 · Course 7 — Accelerate Your Model** — coming soon; needs a **T4 GPU**
 
